@@ -53,9 +53,9 @@ jobs:
       # -------------------------
       # GZIP ASSETS
       # -------------------------
-      # - name: Gzip CSS and JS
-      #   run: |
-      #     find optimized/css optimized/js -type f \( -name "*.css" -o -name "*.js" \) -exec gzip -kf {} \;
+      - name: Gzip CSS and JS
+        run: |
+          find optimized/css optimized/js -type f \( -name "*.css" -o -name "*.js" \) -exec gzip -kf {} \;
 
       # -------------------------
       # REPORT
@@ -76,7 +76,7 @@ jobs:
       # -------------------------
 
       - name: Configure git
-        run: git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/vickysm123/sohominterior.git
+        run: git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/vickysm123/sohominteriors.git
 
       - name: Commit and push optimized files
         run: |

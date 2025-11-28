@@ -51,21 +51,21 @@ gtag('config', 'G-N1VLL3H1T8');
  <!-- End Google Tag Manager -->
 
 
- <meta name="Robots" content="INDEX,ALL" />
- <meta name="YahooSeeker" content="INDEX, FOLLOW" />
- <meta name="msnbot" content="INDEX, FOLLOW" />
- <meta name="googlebot" content="INDEX, FOLLOW" />
+ <meta name="Robots" content="INDEX,ALL" >
+ <meta name="YahooSeeker" content="INDEX, FOLLOW" >
+ <meta name="msnbot" content="INDEX, FOLLOW" >
+ <meta name="googlebot" content="INDEX, FOLLOW" >
 
- <meta name="Expires" content="never" />
- <meta name="revisit-after" content="daily" />
- <meta name="Author" content="https://sohom.in/" />
- <meta name="Distribution" content="Global" />
- <meta name="Rating" content="general" />
- <meta name="geo.region" content="India" />
- <meta name="geo.placename" content="Hyderabad" />
- <meta name="search engines" content="ALL" />
- <meta name="copyright" content="SOHOM" />
- <meta name="email" content="sales@sohom.in" />
+ <meta name="Expires" content="never" >
+ <meta name="revisit-after" content="daily" >
+ <meta name="Author" content="https://sohom.in/" >
+ <meta name="Distribution" content="Global" >
+ <meta name="Rating" content="general" >
+ <meta name="geo.region" content="India" >
+ <meta name="geo.placename" content="Hyderabad" >
+ <meta name="search engines" content="ALL" >
+ <meta name="copyright" content="SOHOM" >
+ <meta name="email" content="sales@sohom.in" >
 
  <meta name="robots" content="index, follow">
  <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -78,7 +78,7 @@ gtag('config', 'G-N1VLL3H1T8');
      content="Deceuninck uPVC Doors and Windows Systems. Sohom offers world-class sliding, Bi-Fold, Lift and Slide, and casement. Buy the best products with us now.">
 
 
- <style type="text/css" data-type="vc_shortcodes-custom-css">
+ <style data-type="vc_shortcodes-custom-css">
 .vc_custom_1599919214811 {
     background-image: url(../wp-content/uploads/2020/02/img_178537c3.jpg?id=578) !important;
 }
@@ -114,21 +114,21 @@ gtag('config', 'G-N1VLL3H1T8');
 }
  </style>
 
- <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+ <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" >
 
 
 
 
 
- <link rel='dns-prefetch' href='https://translate.google.com/' />
- <link rel='dns-prefetch' href='https://fonts.googleapis.com/' />
- <link rel='dns-prefetch' href='https://s.w.org/' />
+ <link rel='dns-prefetch' href='https://translate.google.com/' >
+ <link rel='dns-prefetch' href='https://fonts.googleapis.com/' >
+ <link rel='dns-prefetch' href='https://s.w.org/' >
  <link rel="alternate" type="application/rss+xml" title="Sohom uPvc Windows &amp; Doors &raquo; Feed"
-     href="../feed/index.html" />
+     href="../feed/index.html" >
  <link rel="alternate" type="application/rss+xml" title="Sohom uPvc Windows &amp; Doors &raquo; Comments Feed"
-     href="../comments/feed/index.html" />
+     href="../comments/feed/index.html" >
 
- <script type="text/javascript">
+ <script>
 window._wpemojiSettings = {
     "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/",
     "ext": ".png",
@@ -189,7 +189,7 @@ window._wpemojiSettings = {
 }(window, document, window._wpemojiSettings);
  </script>
 
- <style type="text/css">
+ <style>
 img.wp-smiley,
 img.emoji {
     display: inline !important;
@@ -205,26 +205,26 @@ img.emoji {
  </style>
 
  <link rel='stylesheet' id='slickmap.css-css' href='wp-content/plugins/slick-sitemap/slickmap5697.css?ver=5.5.3'
-     type='text/css' media='all' />
+      media='all' >
  <link rel='stylesheet' id='wp-block-library-css' href='wp-includes/css/dist/block-library/style.min5697.css?ver=5.5.3'
-     type='text/css' media='all' />
+      media='all' >
  <link rel='stylesheet' id='wp-block-library-theme-css'
-     href='wp-includes/css/dist/block-library/theme.min5697.css?ver=5.5.3' type='text/css' media='all' />
+     href='wp-includes/css/dist/block-library/theme.min5697.css?ver=5.5.3'  media='all' >
  <link rel='stylesheet' id='contact-form-7-css'
-     href='wp-content/plugins/contact-form-7/includes/css/stylesde54.css?ver=5.3' type='text/css' media='all' />
+     href='wp-content/plugins/contact-form-7/includes/css/stylesde54.css?ver=5.3'  media='all' >
  <link rel='stylesheet' id='google-language-translator-css'
-     href='wp-content/plugins/google-language-translator/css/styled42d.css?ver=6.0.8' type='text/css' media='' />
+     href='wp-content/plugins/google-language-translator/css/styled42d.css?ver=6.0.8'  media='' >
  <link rel='stylesheet' id='glt-toolbar-styles-css'
-     href='wp-content/plugins/google-language-translator/css/toolbard42d.css?ver=6.0.8' type='text/css' media='' />
+     href='wp-content/plugins/google-language-translator/css/toolbard42d.css?ver=6.0.8'  media='' >
  <link rel='stylesheet' id='rs-plugin-settings-css'
-     href='wp-content/plugins/revslider/public/assets/css/rs6b5e1.css?ver=6.1.5' type='text/css' media='all' />
- <style id='rs-plugin-settings-inline-css' type='text/css'>
+     href='wp-content/plugins/revslider/public/assets/css/rs6b5e1.css?ver=6.1.5'  media='all' >
+ <style id='rs-plugin-settings-inline-css'>
 #rs-demo-id {}
  </style>
  <link rel='stylesheet' id='ssb-ui-style-css'
-     href='wp-content/plugins/sticky-side-buttons/assets/css/ssb-ui-style5697.css?ver=5.5.3' type='text/css'
-     media='all' />
- <style id='ssb-ui-style-inline-css' type='text/css'>
+     href='wp-content/plugins/sticky-side-buttons/assets/css/ssb-ui-style5697.css?ver=5.5.3' 
+     media='all' >
+ <style id='ssb-ui-style-inline-css'>
 #ssb-btn-0 {
     background: #00a2e8;
 }
@@ -340,22 +340,22 @@ img.emoji {
  </style>
 
  <link rel='stylesheet' id='ssb-fontawesome-css'
-     href='wp-content/plugins/sticky-side-buttons/assets/css/font-awesome5697.css?ver=5.5.3' type='text/css'
-     media='all' />
+     href='wp-content/plugins/sticky-side-buttons/assets/css/font-awesome5697.css?ver=5.5.3' 
+     media='all' >
  <link rel='stylesheet' id='js_composer_front-css'
-     href='wp-content/plugins/js_composer/assets/css/js_composer.min52c7.css?ver=6.0.5' type='text/css' media='all' />
+     href='wp-content/plugins/js_composer/assets/css/js_composer.min52c7.css?ver=6.0.5'  media='all' >
  <link rel='stylesheet' id='roneous-google-fonts-css'
      href='https://fonts.googleapis.com/css?family=Catamaran%3A400%2C100%2C300%2C400%2C600%2C700%7CCatamaran%3A600%2C100%2C300%2C400%2C600%2C700%7CCabin+Condensed%3A700%2C100%2C300%2C400%2C600%2C700%7COpen+Sans%3A300%2C400&amp;subset=latin%2Clatin-ext&amp;ver=5.5.3'
-     type='text/css' media='all' />
+      media='all' >
  <link rel='stylesheet' id='roneous-libs-css' href='wp-content/themes/roneous/assets/css/libs5697.css?ver=5.5.3'
-     type='text/css' media='all' />
+      media='all' >
  <link rel='stylesheet' id='roneous-theme-styles-css'
-     href='wp-content/uploads/wp-less-cache/roneous-theme-styles49fb.css?ver=1618206946' type='text/css' media='all' />
- <link rel='stylesheet' id='roneous-style-css' href='wp-content/themes/roneous/style5697.css?ver=5.5.3' type='text/css'
-     media='all' />
- <script type='text/javascript' src='wp-includes/js/jquery/jquery4a5f.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+     href='wp-content/uploads/wp-less-cache/roneous-theme-styles49fb.css?ver=1618206946'  media='all' >
+ <link rel='stylesheet' id='roneous-style-css' href='wp-content/themes/roneous/style5697.css?ver=5.5.3' 
+     media='all' >
+ <script  src='wp-includes/js/jquery/jquery4a5f.js?ver=1.12.4-wp' id='jquery-core-js'></script>
 
- <script type='text/javascript' id='ssb-ui-js-js-extra'>
+ <script  id='ssb-ui-js-js-extra'>
 /* <![CDATA[ */
 var ssb_ui_data = {
     "z_index": "99"
@@ -363,17 +363,17 @@ var ssb_ui_data = {
 /* ]]> */
  </script>
 
- <link rel="https://api.w.org/" href="wp-json/index.html" />
- <link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/197.json" />
- <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.html?rsd" />
- <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" />
- <meta name="generator" content="WordPress 5.5.3" />
- <link rel='shortlink' href='index85b3.html?p=197' />
+ <link rel="https://api.w.org/" href="wp-json/index.html" >
+ <link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/197.json" >
+ <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.html?rsd" >
+ <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" >
+ <meta name="generator" content="WordPress 5.5.3" >
+ <link rel='shortlink' href='index85b3.html?p=197' >
  <link rel="alternate" type="application/json+oembed"
-     href="wp-json/oembed/1.0/embed5b08.json?url=https%3A%2F%2Fsohom.in%2Fabout%2F" />
+     href="wp-json/oembed/1.0/embed5b08.json?url=https%3A%2F%2Fsohom.in%2Fabout%2F" >
  <link rel="alternate" type="text/xml+oembed"
-     href="wp-json/oembed/1.0/embede84c?url=https%3A%2F%2Fsohom.in%2Fabout%2F&amp;format=xml" />
- <style type="text/css">
+     href="wp-json/oembed/1.0/embede84c?url=https%3A%2F%2Fsohom.in%2Fabout%2F&amp;format=xml" >
+ <style >
 p.hello {
     font-size: 12px;
     color: darkgray;
@@ -440,7 +440,7 @@ body {
 }
  </style>
 
- <style type="text/css">
+ <style>
 #mvvwo_floating_button {
     bottom: 20px;
     right: 15px;
@@ -599,13 +599,13 @@ body {
 }
  </style>
 
- <meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress." />
+ <meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress." >
  <meta name="generator"
-     content="Powered by Slider Revolution 6.1.5 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+     content="Powered by Slider Revolution 6.1.5 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." >
 
  <meta name="msapplication-TileImage"
-     content="https://sohom.in/wp-content/uploads/2020/07/cropped-image2-1-270x270.png" />
- <script type="text/javascript">
+     content="https://sohom.in/wp-content/uploads/2020/07/cropped-image2-1-270x270.png" >
+ <script >
 function setREVStartSize(t) {
     try {
         var h, e = document.getElementById(t.c).parentNode.offsetWidth;
@@ -639,7 +639,7 @@ function setREVStartSize(t) {
 };
  </script>
 
- <style type="text/css" id="wp-custom-css">
+ <style  id="wp-custom-css">
 .heading-title {
     font-size: 50px;
     letter-spacing: -0.02em;
@@ -669,7 +669,7 @@ function setREVStartSize(t) {
  <!--captcha code start-->
  <script src="https://www.google.com/recaptcha/api.js?render=6Leoy2MjAAAAAAM5NKtSdssD3ZUmMoDS90KghFjq"></script>
 
- <script type="text/javascript">
+ <script >
 function c_validation() {
     if (grecaptcha.getResponse() == "") {
         alert("check roboto");

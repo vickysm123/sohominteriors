@@ -28,7 +28,7 @@
                         <p><a href="blogs.php">Blogs</a></p>
                     </div>
                     <div class="textwidget"> <a href="disclaimer.php">Disclaimer</a> | <a
-                            href="privacy-policy.php">Privacy Policy</a> | <a href="sitemap.php">Sitemap</a></p>
+                            href="privacy-policy.php">Privacy Policy</a> | <a href="sitemap.php">Sitemap</a>
                     </div>
                 </div>
 
@@ -57,9 +57,9 @@
 
                 <div id="text-6" class="widget widget_text">
                     <div class="textwidget">
-                        <p><iframe style="border: 0;"
+                        <p><iframe style="border:0; width:100%; height:220px;"
                                 src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7611.703640277792!2d78.42892!3d17.466805!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6b70cc0eefbb0808!2sSohom+Fenstertech+Pvt+Ltd.!5e0!3m2!1sen!2sin!4v1544596547574"
-                                width="100%" height="220" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+                                  allowfullscreen="allowfullscreen"></iframe>
                         </p>
                     </div>
                 </div>
@@ -70,7 +70,7 @@
                             class="image wp-image-733  attachment-60x60 size-60x60" alt="" loading="lazy"
                             style="max-width: 100%; height: auto;"
                             srcset="wp-content/uploads/2020/07/image4-1-60x60.webp 60w, wp-content/uploads/2020/07/image4-1-60x60.webp 100w"
-                            sizes="(max-width: 60px) 100vw, 60px" />
+                            sizes="(max-width: 60px) 100vw, 60px" >
                     </a>
                 </div>
 
@@ -79,7 +79,7 @@
                             class="image wp-image-737  attachment-60x60 size-60x60" alt="" loading="lazy"
                             style="max-width: 100%; height: auto;"
                             srcset="wp-content/uploads/2020/07/image7-1-60x60.webp 60w, wp-content/uploads/2020/07/image7-1-60x60.webp 100w"
-                            sizes="(max-width: 60px) 100vw, 60px" />
+                            sizes="(max-width: 60px) 100vw, 60px" >
                     </a>
                 </div>
             </div>
@@ -288,7 +288,7 @@ function GoogleLanguageTranslatorInit() {
 <div id="mvvwo_floating_button" class="mvvwo_pos_left">
     <a target="_blank" data-message="Hello, I'm looking for" class="mvvwo_btn" href="#">
         <svg enable-background="new 0 0 90 90" version="1.1" viewBox="0 0 90 90" xml:space="preserve"
-            xmlns="https://www.w3.org/2000/svg">
+            >
             <path
                 d="m90 43.841c0 24.213-19.779 43.841-44.182 43.841-7.747 0-15.025-1.98-21.357-5.455l-24.461 7.773 7.975-23.522c-4.023-6.606-6.34-14.354-6.34-22.637 0-24.213 19.781-43.841 44.183-43.841 24.405 0 44.182 19.628 44.182 43.841zm-44.182-36.859c-20.484 0-37.146 16.535-37.146 36.859 0 8.065 2.629 15.534 7.076 21.61l-4.641 13.689 14.275-4.537c5.865 3.851 12.891 6.097 20.437 6.097 20.481 0 37.146-16.533 37.146-36.857s-16.664-36.861-37.147-36.861zm22.311 46.956c-0.273-0.447-0.994-0.717-2.076-1.254-1.084-0.537-6.41-3.138-7.4-3.495-0.993-0.358-1.717-0.538-2.438 0.537-0.721 1.076-2.797 3.495-3.43 4.212-0.632 0.719-1.263 0.809-2.347 0.271-1.082-0.537-4.571-1.673-8.708-5.333-3.219-2.848-5.393-6.364-6.025-7.441-0.631-1.075-0.066-1.656 0.475-2.191 0.488-0.482 1.084-1.255 1.625-1.882 0.543-0.628 0.723-1.075 1.082-1.793 0.363-0.717 0.182-1.344-0.09-1.883-0.27-0.537-2.438-5.825-3.34-7.977-0.902-2.15-1.803-1.792-2.436-1.792-0.631 0-1.354-0.09-2.076-0.09s-1.896 0.269-2.889 1.344c-0.992 1.076-3.789 3.676-3.789 8.963 0 5.288 3.879 10.397 4.422 11.113 0.541 0.716 7.49 11.92 18.5 16.223 11.011 4.301 11.011 2.866 12.997 2.686 1.984-0.179 6.406-2.599 7.312-5.107 0.9-2.512 0.9-4.663 0.631-5.111z" />
         </svg>
@@ -324,9 +324,9 @@ function GoogleLanguageTranslatorInit() {
 
 
 <link href="https://fonts.googleapis.com/css?family=Poppins:700%7CRoboto:400" rel="stylesheet" property="stylesheet"
-    media="all" type="text/css">
+    media="all">
 
-<script type="text/javascript">
+<script>
 if (typeof revslider_showDoubleJqueryError === "undefined") {
     function revslider_showDoubleJqueryError(sliderID) {
         var err = "<div class='rs_error_message_box'>";
@@ -461,14 +461,14 @@ if (window.jQuery) {
 }
 mvvwo_init();
 </script>
-<script type='text/javascript' src='wp-content/plugins/revslider/public/assets/js/revolution.tools.minf049.js?ver=6.0'
-    id='tp-tools-js'></script>
-<script type='text/javascript' src='wp-content/plugins/revslider/public/assets/js/rs6.minb5e1.js?ver=6.1.5'
-    id='revmin-js'></script>
-<script type='text/javascript' src='wp-content/plugins/sticky-side-buttons/assets/js/ssb-ui-js5697.js?ver=5.5.3'
-    id='ssb-ui-js-js'></script>
+<script src='wp-content/plugins/revslider/public/assets/js/revolution.tools.minf049.js?ver=6.0'
+    ></script>
+<script src='wp-content/plugins/revslider/public/assets/js/rs6.minb5e1.js?ver=6.1.5'
+    ></script>
+<script  src='wp-content/plugins/sticky-side-buttons/assets/js/ssb-ui-js5697.js?ver=5.5.3'
+    ></script>
 
-<script type='text/javascript' id='contact-form-7-js-extra'>
+<script  id='contact-form-7-js-extra'>
 /* <![CDATA[ */
 var wpcf7 = {
     "apiSettings": {
@@ -478,67 +478,67 @@ var wpcf7 = {
 };
 /* ]]> */
 </script>
-<script type='text/javascript' src='wp-includes/js/jquery/jquery4a5f.js?ver=1.12.4-wp' id='jquery-core-js'></script>
-<script type='text/javascript' src='wp-content/plugins/revslider/public/assets/js/revolution.tools.minf049.js?ver=6.0'
-    id='tp-tools-js'></script>
-<script type='text/javascript' src='wp-content/plugins/revslider/public/assets/js/rs6.minb5e1.js?ver=6.1.5'
-    id='revmin-js'></script>
-<script type='text/javascript' src='wp-content/plugins/sticky-side-buttons/assets/js/ssb-ui-js5697.js?ver=5.5.3'
-    id='ssb-ui-js-js'></script>
+<script src='wp-includes/js/jquery/jquery4a5f.js?ver=1.12.4-wp'></script>
+<script src='wp-content/plugins/revslider/public/assets/js/revolution.tools.minf049.js?ver=6.0'
+    ></script>
+<script src='wp-content/plugins/revslider/public/assets/js/rs6.minb5e1.js?ver=6.1.5'
+    ></script>
+<script src='wp-content/plugins/sticky-side-buttons/assets/js/ssb-ui-js5697.js?ver=5.5.3'
+    ></script>
 
-<script type='text/javascript' src='wp-content/plugins/contact-form-7/includes/js/scriptsde54.js?ver=5.3'
+<script src='wp-content/plugins/contact-form-7/includes/js/scriptsde54.js?ver=5.3'
     id='contact-form-7-js'></script>
-<script type='text/javascript' src='wp-content/plugins/google-language-translator/js/scriptsd42d.js?ver=6.0.8'
+<script  src='wp-content/plugins/google-language-translator/js/scriptsd42d.js?ver=6.0.8'
     id='scripts-js'></script>
 
-<script type='text/javascript' src='wp-includes/js/jquery/ui/core.mine899.js?ver=1.11.4' id='jquery-ui-core-js'>
+<script  src='wp-includes/js/jquery/ui/core.mine899.js?ver=1.11.4' id='jquery-ui-core-js'>
 </script>
-<script type='text/javascript' src='wp-includes/js/jquery/ui/effect.mine899.js?ver=1.11.4' id='jquery-effects-core-js'>
+<script  src='wp-includes/js/jquery/ui/effect.mine899.js?ver=1.11.4' id='jquery-effects-core-js'>
 </script>
-<script type='text/javascript' src='wp-includes/js/jquery/ui/effect-shake.mine899.js?ver=1.11.4'
+<script  src='wp-includes/js/jquery/ui/effect-shake.mine899.js?ver=1.11.4'
     id='jquery-effects-shake-js'></script>
-<script type='text/javascript' src='wp-content/themes/roneous/assets/js/bootstrap5697.js?ver=5.5.3' id='bootstrap-js'>
+<script  src='wp-content/themes/roneous/assets/js/bootstrap5697.js?ver=5.5.3' id='bootstrap-js'>
 </script>
-<script type='text/javascript' src='wp-includes/js/imagesloaded.mineda1.js?ver=4.1.4' id='imagesloaded-js'></script>
-<script type='text/javascript' src='wp-includes/js/masonry.min3a05.js?ver=4.2.2' id='masonry-js'></script>
-<script type='text/javascript' src='wp-content/themes/roneous/assets/js/lib/jquery.equalheights.min5697.js?ver=5.5.3'
+<script  src='wp-includes/js/imagesloaded.mineda1.js?ver=4.1.4' id='imagesloaded-js'></script>
+<script  src='wp-includes/js/masonry.min3a05.js?ver=4.2.2' id='masonry-js'></script>
+<script  src='wp-content/themes/roneous/assets/js/lib/jquery.equalheights.min5697.js?ver=5.5.3'
     id='equalheights-js'></script>
-<script type='text/javascript' src='wp-content/themes/roneous/assets/js/lib/jquery.smooth-scroll.min5697.js?ver=5.5.3'
+<script  src='wp-content/themes/roneous/assets/js/lib/jquery.smooth-scroll.min5697.js?ver=5.5.3'
     id='smoothscroll-js'></script>
-<script type='text/javascript' src='wp-content/themes/roneous/assets/js/lib/owl.carousel.min5697.js?ver=5.5.3'
+<script  src='wp-content/themes/roneous/assets/js/lib/owl.carousel.min5697.js?ver=5.5.3'
     id='owlcarousel-js'></script>
-<script type='text/javascript'
+<script 
     src='wp-content/plugins/js_composer/assets/lib/bower/flexslider/jquery.flexslider-min52c7.js?ver=6.0.5'
     id='flexslider-js'></script>
-<script type='text/javascript'
+<script 
     src='wp-content/themes/roneous/assets/js/lib/jquery.social-share-counter5697.js?ver=5.5.3'
     id='social-share-counter-js'></script>
-<script type='text/javascript' src='wp-content/themes/roneous/assets/js/lib/flickrPhotoStream5697.js?ver=5.5.3'
+<script  src='wp-content/themes/roneous/assets/js/lib/flickrPhotoStream5697.js?ver=5.5.3'
     id='flickr-photo-stream-js'></script>
-<script type='text/javascript' src='wp-content/themes/roneous/assets/js/lib/jquery.parallax5697.js?ver=5.5.3'
+<script  src='wp-content/themes/roneous/assets/js/lib/jquery.parallax5697.js?ver=5.5.3'
     id='jsparallax-js'></script>
-<script type='text/javascript' src='wp-content/themes/roneous/assets/js/lib/waypoint5697.js?ver=5.5.3' id='waypoint-js'>
+<script  src='wp-content/themes/roneous/assets/js/lib/waypoint5697.js?ver=5.5.3' id='waypoint-js'>
 </script>
-<script type='text/javascript' src='wp-content/themes/roneous/assets/js/lib/jquery.counterup5697.js?ver=5.5.3'
+<script src='wp-content/themes/roneous/assets/js/lib/jquery.counterup5697.js?ver=5.5.3'
     id='counterup-js'></script>
-<script type='text/javascript' src='wp-content/themes/roneous/assets/js/lib/lightbox.min5697.js?ver=5.5.3'
+<script  src='wp-content/themes/roneous/assets/js/lib/lightbox.min5697.js?ver=5.5.3'
     id='jslightbox-js'></script>
-<script type='text/javascript' src='wp-content/themes/roneous/assets/js/lib/jquery.mb.YTPlayer.min5697.js?ver=5.5.3'
+<script  src='wp-content/themes/roneous/assets/js/lib/jquery.mb.YTPlayer.min5697.js?ver=5.5.3'
     id='mb-ytplayer-js'></script>
-<script type='text/javascript' src='wp-content/themes/roneous/assets/js/lib/jquery.countdown.min5697.js?ver=5.5.3'
+<script  src='wp-content/themes/roneous/assets/js/lib/jquery.countdown.min5697.js?ver=5.5.3'
     id='countdown-js'></script>
-<script type='text/javascript' src='wp-content/themes/roneous/assets/js/lib/fluidvids5697.js?ver=5.5.3'
+<script  src='wp-content/themes/roneous/assets/js/lib/fluidvids5697.js?ver=5.5.3'
     id='fluidvids-js'></script>
-<script type='text/javascript' src='wp-content/themes/roneous/assets/js/lib/gmap3.min5697.js?ver=5.5.3' id='gmap3-js'>
+<script src='wp-content/themes/roneous/assets/js/lib/gmap3.min5697.js?ver=5.5.3' id='gmap3-js'>
 </script>
-<script type='text/javascript' src='wp-content/themes/roneous/assets/js/lib/modernizr5697.js?ver=5.5.3'
+<script src='wp-content/themes/roneous/assets/js/lib/modernizr5697.js?ver=5.5.3'
     id='modernizr-js'></script>
-<script type='text/javascript' src='wp-content/themes/roneous/assets/js/lib/jquery.throttle.min5697.js?ver=5.5.3'
+<script src='wp-content/themes/roneous/assets/js/lib/jquery.throttle.min5697.js?ver=5.5.3'
     id='jsthrottle-js'></script>
-<script type='text/javascript' src='wp-content/themes/roneous/assets/js/lib/jQuery.shuffle.min5697.js?ver=5.5.3'
+<script  src='wp-content/themes/roneous/assets/js/lib/jQuery.shuffle.min5697.js?ver=5.5.3'
     id='jsshuffle-js'></script>
 
-<script type='text/javascript' id='roneous-scripts-js-extra'>
+<script  id='roneous-scripts-js-extra'>
 /* <![CDATA[ */
 var wp_data = {
     "roneous_ajax_url": "https:\/\/sohom.in\/wp-admin\/admin-ajax.php",
@@ -549,13 +549,13 @@ var wp_data = {
 /* ]]> */
 </script>
 
-<script type='text/javascript' src='wp-content/themes/roneous/assets/js/scripts5697.js?ver=5.5.3'
+<script src='wp-content/themes/roneous/assets/js/scripts5697.js?ver=5.5.3'
     id='roneous-scripts-js'></script>
-<script type='text/javascript' src='wp-includes/js/wp-embed.min5697.js?ver=5.5.3' id='wp-embed-js'></script>
-<script type='text/javascript'
+<script src='wp-includes/js/wp-embed.min5697.js?ver=5.5.3' id='wp-embed-js'></script>
+<script 
     src='wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min52c7.js?ver=6.0.5'
     id='wpb_composer_front_js-js'></script>
-<script type="text/javascript">
+<script >
 function googleTranslateElementInit() {
     new google.translate.TranslateElement({
         pageLanguage: 'en'
@@ -585,12 +585,11 @@ grecaptcha.ready(function() {
 });
 </script>
 <!--captcha code end-->
-<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">
+<script  src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">
 </script>
 
 
-<script async src="https://backend.livhousing.com/bot/create-script-tag?token=394f6d25-1b56-46c0-9804-898133eed217"
-    type="application/javascript"></script>
+<script async src="https://backend.livhousing.com/bot/create-script-tag?token=394f6d25-1b56-46c0-9804-898133eed217"></script>
 
 <!-- Swiper JS -->
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
